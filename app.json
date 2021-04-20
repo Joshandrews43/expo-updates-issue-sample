@@ -4,6 +4,7 @@
     "slug": "example",
     "version": "1.0.0",
     "orientation": "portrait",
+    "sdkVersion": "41.0.0",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
@@ -15,9 +16,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
